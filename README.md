@@ -9,7 +9,7 @@ Using [Discogs API](https://www.discogs.com/developers).
 ## Install
 
 ```bash
-go get github.com/shinshin86/go-discogs-random-music-album
+go install github.com/shinshin86/go-discogs-random-music-album@latest
 ```
 
 
